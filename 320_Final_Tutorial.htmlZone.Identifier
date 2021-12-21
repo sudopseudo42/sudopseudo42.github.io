@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://127.0.0.1:8888/notebooks/notebooks/320_Final_Tutorial.ipynb
+HostUrl=http://127.0.0.1:8888/nbconvert/html/notebooks/320_Final_Tutorial.ipynb?download=true
